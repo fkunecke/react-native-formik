@@ -65,9 +65,9 @@ export function withNextInputAutoFocusForm<Props>(
   }
 ): React.ComponentClass<Props>;
 
-export function withPickerValues<Props>(
-  WrappedComponent: React.ComponentType<Props>
-): React.ComponentClass<Props>;
+// export function withPickerValues<Props>(
+//   WrappedComponent: React.ComponentType<Props>
+// ): React.ComponentClass<Props>;
 
 export function withTouched<Props>(
   WrappedComponent: React.ComponentType<Props>

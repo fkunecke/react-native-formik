@@ -8,8 +8,8 @@ import withFormik from "./src/withFormik";
 import withFormikControl from "./src/withFormikControl";
 import withInputTypeProps from "./src/withInputTypeProps";
 import withTouched from "./src/withTouched";
-import withPickerValues from "./src/withPickerValues";
-import KeyboardModal from "./src/withPickerValues/KeyboardModal";
+// import withPickerValues from "./src/withPickerValues";
+// import KeyboardModal from "./src/withPickerValues/KeyboardModal";
 import makeReactNativeField from "./src/makeReactNativeField";
 import {
   withNextInputAutoFocusForm,
@@ -40,6 +40,6 @@ export {
   withTouched,
   withNextInputAutoFocusForm,
   withNextInputAutoFocusInput,
-  withPickerValues,
-  KeyboardModal
+  // withPickerValues,
+  // KeyboardModal
 };
