@@ -1,5 +1,5 @@
 {
-  "name": "react-native-formik",
+  "name": "fk-react-native-formik",
   "version": "0.0.0-development",
   "description": "Make the most of your React Native forms with Formik",
   "main": "index.js",
